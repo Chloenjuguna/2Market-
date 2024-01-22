@@ -215,10 +215,17 @@ ORDER BY "Bulkmail_effectiveness" DESC, "Twitter_effectiveness" DESC, "Instagram
 ### Data Visualisation (Tableau)
 I designed a comprehensive workbook for 2Market's marketing and advertising data, featuring three distinct dashboards dedicated to demographics, sales, and advertising. The demographics dashboard offers insights into customer profiles, allowing for a deeper understanding of the target audience. The sales dashboard provides a detailed analysis of product purchases, enabling quick assessments of product performance and market trends. The advertising dashboard evaluates the effectiveness of various channels, aiding in strategic decision-making for future campaigns. This structured approach facilitates a holistic view of 2Market's marketing landscape, empowering stakeholders with actionable insights to optimize customer engagement and maximise advertising impact. [Access Tableau Workbook here](https://public.tableau.com/app/profile/chloe.njuguna)
 
-### Interpretation 
-Spain hosts the majority of customers, totaling 1,093. On average, the customer base falls within the age range of 40s to 50s, with the largest segment of customers being married. Highest proportion of customers held a master's level education. The total amount spent on products is highest in spain, in contrast to Montenegro. Interestingly alcoholic beverages are the most purchased product by a great margin followed by meat items and commodities across countries. Individuals with a master's education level, had a higher average income than any other education level, however graduates spent more on products by comparison. Similar the SQL ouput, married inidviduals spent the most on products. 
-Customers made the most significant number of purchases through Twitter advertisements. When examining this ad category with respect to average income, marital status, and total products purchased, it becomes apparent that married individuals and those who were 'together' made more purchases through Twitter and Bulkmail advertisements. This is fascinating as it raises questions as to whether other modes
-of advertisement e.g. brochures are being distributed as frequently as twitter ads. I would like to investigate whether the products available for purchase in one country are also available in another. It is crucial to address this, as the absence of certain products in specific countries could lead to a misinterpretation of purchasing insights. If some products included in the analysis are sold in certain countries but not in others, it may impact the accuracy of our conclusions.
+### Results
+
+- Spain hosts the majority of customers, totaling 1,093. On average, the customer base falls within the age range of 40s to 50s, with the largest segment of customers being married. 
+- The highest proportion of customers held a master's level education.
+- Alcoholic beverages are the most purchased product by a great margin followed by meat items and commodities across countries.
+- Individuals with a master's education level, had a higher average income than any other education level, however graduates spent more on products by comparison.
+- Similar to the what was found in the SQL ouput, married inidviduals spent the most on products. 
+- Customers made the most significant number of purchases through Twitter advertisements.
+- When examining methods of advertisement with respect to average income, marital status, and total products purchased, it becomes apparent that married individuals and those who were 'together' made more purchases through Twitter and Bulkmail advertisements.
+
+This is fascinating as it raises questions as to whether other modes of advertisement e.g. brochures are being distributed as frequently as twitter ads. I also query whether the products available for purchase in one country are also available in another. It is crucial to address this, as the absence of certain products in specific countries could lead to a misinterpretation of purchasing insights. If some products included in the analysis are sold in certain countries but not in others, it may impact the accuracy of our conclusions.
 
 ### Recommendations 
 
