@@ -7,6 +7,7 @@ have been made even though the primary data exists. Notably, an issue with using
 ### Data Sources
 1. Marketing_data__.csv contains information about customer demographics and product sales. 
 2. ad_data.csv contain information about advertisement.
+
 Both datasets were used during analysis and visualisation.
 
 ### Tools 
