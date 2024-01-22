@@ -233,7 +233,7 @@ This is fascinating as it raises questions as to whether other modes of advertis
 
 2. Ensure to investigate the availability of products across different countries, so that future analysis considers products that are universally available.
 
-3. Twitter advertisement have shown signficant impact, among other social media platforms so you may which to consider allocating more resources to digital advertising. You may also wish to investigate the distribution frequency of traditional advertising channels, to ensure a balanced approach.
+3. Twitter advertisements have shown signficant impact, among other social media platforms, so 2Market may want to consider allocating more resources to digital advertising. You may also wish to investigate the distribution frequency of traditional advertising channels e.g. Brochure, to ensure a balanced approach.
 
 4. There is a relationship between higher education and higher average income. Tailoring marketing messages and promotions to appeal to these groups, may help potentially increase their spending capacity. 
 
