@@ -219,4 +219,18 @@ Spain hosts the majority of customers, totaling 1,093. On average, the customer 
 Customers made the most significant number of purchases through Twitter advertisements. When examining this ad category with respect to average income, marital status, and total products purchased, it becomes apparent that married individuals and those who were 'together' made more purchases through Twitter and Bulkmail advertisements. This is fascinating as it raises questions as to whether other modes
 of advertisement e.g. brochures are being distributed as frequently as twitter ads. I would like to investigate whether the products available for purchase in one country are also available in another. It is crucial to address this, as the absence of certain products in specific countries could lead to a misinterpretation of purchasing insights. If some products included in the analysis are sold in certain countries but not in others, it may impact the accuracy of our conclusions.
 
-## Recommendation 
+### Recommendations 
+
+1. Tailor marketing strategies to purchasing behaviour observed in each country. Consider the economic and cultural factors that influence purchasing behaviour.
+
+2. Ensure to investigate the availability of products across different countries, so that future analysis considers products that are universally available.
+
+3. Twitter advertisement have shown signficant impact, among other social media platforms so you may which to consider allocating more resources to digital advertising. You may also wish to investigate the distribution frequency of traditional advertising channels, to ensure a balanced approach.
+
+4. There is a relationship between higher education and higher average income. Tailoring marketing messages and promotions to appeal to these groups, may help potentially increase their spending capacity. 
+
+5. Leverage the understanding that married individuals, as well as those who are 'together,' are more responsive to Twitter and Bulkmail advertisements. Develop targeted campaigns and advertisements for these groups to help engage them further, as well as capture those who are generally less engaged. 
+
+6. Capitalise on the popularity of particular products i.e., alcoholic beverages, meat items and commodities across countries by providing bundling deals and special promotions.
+
+
