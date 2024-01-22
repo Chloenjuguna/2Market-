@@ -17,6 +17,7 @@ Both datasets were used during analysis and visualisation.
 
 ### Data Cleaning/Preperation (Excel)
 - Data loading and Inspection.
+- Data Tranformation.
 - Check for spelling errors.
 - Check for missing/duplicate values.
 - Homogenise Date Format.
