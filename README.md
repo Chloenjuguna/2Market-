@@ -211,4 +211,5 @@ ORDER BY "Bulkmail_effectiveness" DESC, "Twitter_effectiveness" DESC, "Instagram
 
 <img width="995" alt="Screenshot 2024-01-22 at 10 14 38" src="https://github.com/Chloenjuguna/2Market-/assets/143361757/21c3d923-73c5-4fd4-a45d-3ce0bb421ae8">
 
-
+### Data Visualisation (Tableau)
+I designed a comprehensive workbook for 2Market's marketing and advertising data, featuring three distinct dashboards dedicated to demographics, sales, and advertising. The demographics dashboard offers insights into customer profiles, allowing for a deeper understanding of the target audience. The sales dashboard provides a detailed analysis of product purchases, enabling quick assessments of product performance and market trends. The advertising dashboard evaluates the effectiveness of various channels, aiding in strategic decision-making for future campaigns. This structured approach facilitates a holistic view of 2Market's marketing landscape, empowering stakeholders with actionable insights to optimize customer engagement and maximize advertising impact. [Access Tableau Workbook here](https://public.tableau.com/app/profile/chloe.njuguna)
