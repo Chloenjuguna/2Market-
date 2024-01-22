@@ -191,3 +191,24 @@ GROUP BY marketing_data."Marital_status"
 ORDER BY "Bulkmail_effectiveness" DESC, "Twitter_effectiveness" DESC, "Instagram_effectiveness" DESC, "Facebook_effectiveness" DESC, "Brochure_effectiveness" DESC;
 ```
 
+### Results
+<img width="353" alt="Screenshot 2024-01-22 at 09 01 53" 
+	src="https://github.com/Chloenjuguna/2Market-/assets/143361757/0d505c92-03a4-4228-b082-9c72d1052bfd">
+
+- Spain had the highest total expenditure on products, compared to Australia, Canada, Germany, India, Montenegro, South Africa, and the United States of America.
+
+- Among all countries, alcoholic beverages emerged as the most purchased product.
+  
+<img width="842" alt="Screenshot 2024-01-22 at 09 06 19" src="https://github.com/Chloenjuguna/2Market-/assets/143361757/a63e132d-f417-4cee-b60d-7b840adb40ac">
+
+- Alcoholic beverages were the top-selling product across all marital statuses and among customers, regardless of whether they had children or teens in their homes or not. 
+
+<img width="997" alt="Screenshot 2024-01-22 at 09 13 15" src="https://github.com/Chloenjuguna/2Market-/assets/143361757/560b8228-cb61-4694-8014-bbfff1b0e753">
+
+- Twitter ads were the most effective in converting to product purchases, followed by Bulkmail, Instagram, Facebook and Brochure across all countires.
+
+- Among all marital groups, married customers were the most influenced by advertisements to puchase products.
+
+<img width="995" alt="Screenshot 2024-01-22 at 10 14 38" src="https://github.com/Chloenjuguna/2Market-/assets/143361757/21c3d923-73c5-4fd4-a45d-3ce0bb421ae8">
+
+
