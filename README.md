@@ -12,7 +12,7 @@ Both datasets were used during analysis and visualisation.
 
 ### Tools 
 - Excel
-- SQL Sever
+- PostgreSQL
 - Tableau
 
 ### Data Cleaning/Preperation (Excel)
